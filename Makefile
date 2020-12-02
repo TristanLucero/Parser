@@ -1,4 +1,4 @@
-## Tristan Lucero (R11597605) | Assignment #4 | 10/11/2020
+## Tristan Lucero () | Assignment #4 | 10/11/2020
 ## This is a make file to put together 
 ## front.h parser.h and Tristan_Lucero_R11597605_Assignment3.c
 ## The code is for a lexical analyzer
