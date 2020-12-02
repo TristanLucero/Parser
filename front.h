@@ -1,5 +1,5 @@
 /*
-Tristan Lucero (R11597605) | Assignment #4 | 10/27/2020
+Tristan Lucero () | Assignment #4 | 10/27/2020
 This program uses and lexical analyzer previous built to develop a parser for the following code. This is a recursive descent syntax paser in C.
 
 P ::= S
@@ -8,8 +8,8 @@ C ::= E < E | E > E | E = E | E <> E | E <= E | E >= E
 E ::= T | E + T | E - T
 T ::= F | T * F | T / F
 F ::= (E) | N | V
-V ::= a | b | … | y | z | aV | bV | … | yV | zV
-N ::= 0 | 1 | … | 8 | 9 | 0N | 1N | … | 8N | 9N
+V ::= a | b | â€¦ | y | z | aV | bV | â€¦ | yV | zV
+N ::= 0 | 1 | â€¦ | 8 | 9 | 0N | 1N | â€¦ | 8N | 9N
 
 This code is to define the tokens
 */
