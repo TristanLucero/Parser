@@ -1,5 +1,5 @@
 /*
-Tristan Lucero (R11597605) | Assignment #4 | 10/27/2020
+Tristan Lucero () | Assignment #4 | 10/27/2020
 This program uses and lexical analyzer previous built to develop a parser for the following code. This is a recursive descent syntax paser in C.
 
 P ::= S
